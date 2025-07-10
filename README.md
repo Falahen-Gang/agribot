@@ -1,6 +1,6 @@
 # agribot
 
-A new Flutter project.
+The mobile application that is associated with the project.
 
 ## Getting Started
 
