@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+The purpose here is just to link this static project with apis to make it dynaimc so dont change the ui ever unless i told you to do so
